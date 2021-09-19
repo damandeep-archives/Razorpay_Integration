@@ -5,5 +5,5 @@
 <br>
 
 ## Installation:-
-### 1. For backend - Set the environment variables for API_ID and API_SECRET. <br/> &nbsp;&nbsp;  For frontend - Set the environment variable for API_ID. <br/>&nbsp;&nbsp; Note: - These variables are provided by Razorpay
+### 1. For backend - Set the environment variables for API_ID and API_SECRET. <br/> &nbsp;&nbsp;  For frontend - Set the environment variable for API_ID. <br/>&nbsp;&nbsp; Note: - These variables are provided by Razorpay.
 ### 2. Use npm run dev to spin up the development server for frontend and npm start for backend.
